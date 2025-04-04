@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+CSE110
+
 <!--
 **Oshima-Hina/Oshima-Hina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
